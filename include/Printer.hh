@@ -1,6 +1,8 @@
 #ifndef EXAMPLE_Printer_HH
 #define EXAMPLE_Printer_HH
 
+#include <string>
+
 namespace example {
 
 /** provides message printing services */
